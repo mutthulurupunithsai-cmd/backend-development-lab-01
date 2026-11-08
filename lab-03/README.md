@@ -99,8 +99,4 @@ Other decisions:
 - Used a whitelist for `order_by` to prevent SQL injection through column names.
 - ADD YOUR OWN NOTES HERE (anything you personally struggled with).
 
-## Viva answers (for revision)
 
-- **Query parameter vs path parameter?** A path parameter identifies one specific resource (`/books/5`); query parameters refine or modify a collection request (`/books?search_q=code&limit=5`) and are optional.
-- **What does stateless mean?** Each request carries everything the server needs; the server keeps no client session between requests, so any request can be handled independently (this is what lets REST APIs scale).
-- **Bad input vs missing record?** Bad input -> **400 Bad Request**; record that does not exist -> **404 Not Found**.
