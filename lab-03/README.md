@@ -1,8 +1,8 @@
 # Lab 3: REST API, query parameters, validation, debugging
 
-**Name:** YOUR NAME HERE · **Registration number:** YOUR REG NO · **Section:** YOUR SECTION
+**Name:** M. Punith Sai · **Registration number:** 252U1R7064· **Section:** CSE-FSD -2B
 
-**Live link:** https://YOUR-DEPLOYED-URL-HERE  
+**Live link:** lab-03-5bxfzokx2-mutthulurupunithsai-cmd.vercel.app  
 <!-- If you cannot deploy, replace the line above with: "Not deployed: <reason>. Postman screenshots of every endpoint are included below." -->
 
 ## How to run
