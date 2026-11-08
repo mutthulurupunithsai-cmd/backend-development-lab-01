@@ -65,23 +65,20 @@ All SQL uses parameterised queries. `order_by` is checked against a whitelist be
 
 ## Screenshots
 
-![Server running](screenshots/01-server-running.png)
-![GET all books](screenshots/02-get-all-books.png)
-![Search with search_q](screenshots/03-search-q.png)
-![Sorting](screenshots/04-sort-order.png)
-![Pagination](screenshots/05-pagination.png)
-![Price range filter](screenshots/06-price-range.png)
-![POST returns 201](screenshots/07-post-201.png)
-![PUT returns 200](screenshots/08-put-200.png)
-![DELETE returns 200](screenshots/09-delete-200.png)
-![POST missing title returns 400](screenshots/10-post-missing-title-400.png)
-![POST non-numeric price returns 400](screenshots/11-post-bad-price-400.png)
-![GET unknown id returns 404](screenshots/12-get-404.png)
-![Invalid query parameter returns 400](screenshots/13-invalid-query-400.png)
-![Postman runner, all tests passing](screenshots/14-postman-runner-all-pass.png)
-![Database view](screenshots/15-database-view.png)
-![Debugging fix](screenshots/16-debugging-fixed.png)
-![Live deployment](screenshots/17-live-deployment.png)
+![Server running](screenshots/server-running.png)
+![GET all books](screenshots/get-books-default.png)
+![Search with search_q](screenshots/search-q.png)
+![Sorting](screenshots/sort-order.png)
+![Pagination](screenshots/pagination.png)
+![Price range filter](screenshots/price-range.png)
+![POST returns 201](screenshots/post-201.png)
+![PUT returns 200](screenshots/put-200.png)
+![DELETE returns 200](screenshots/delete-200.png)
+![POST missing title returns 400](screenshots/post-missing-title-400.png)
+![POST non-numeric price returns 400](screenshots/post-bad-price.png)
+![GET unknown id returns 404](screenshots/get-404.png)
+![Invalid query parameter returns 400](screenshots/invalid-query-400.png)
+![Postman runner, all tests passing](screenshots/postman-runner-all-pass.png)
 
 ## Postman tests
 
